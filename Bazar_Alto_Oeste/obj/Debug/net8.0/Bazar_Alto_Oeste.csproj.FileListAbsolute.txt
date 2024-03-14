@@ -1,0 +1,14 @@
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\bin\Debug\net8.0\Bazar_Alto_Oeste.exe
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\bin\Debug\net8.0\Bazar_Alto_Oeste.deps.json
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\bin\Debug\net8.0\Bazar_Alto_Oeste.runtimeconfig.json
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\bin\Debug\net8.0\Bazar_Alto_Oeste.dll
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\bin\Debug\net8.0\Bazar_Alto_Oeste.pdb
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.AssemblyInfoInputs.cache
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.AssemblyInfo.cs
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.csproj.CoreCompileInputs.cache
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.dll
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\refint\Bazar_Alto_Oeste.dll
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.pdb
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\Bazar_Alto_Oeste.genruntimeconfig.cache
+C:\Users\abreu\source\repos\Bazar_Alto_Oeste\Bazar_Alto_Oeste\obj\Debug\net8.0\ref\Bazar_Alto_Oeste.dll

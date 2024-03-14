@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYzk2bjR2vKGQyCP9UU5AaZe4T/dkigYWP4/P/k6+E9fHhHKmIX3OG3Fc2uIbpJXdVE1iUDu3qEWaRHS6vJqDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abreu\\source\\repos\\Bazar_Alto_Oeste\\Baza-Alto-Oeste\\Bazar_Alto_Oeste\\Bazar_Alto_Oeste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abreu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\abreu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\abreu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
