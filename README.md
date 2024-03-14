@@ -16,3 +16,5 @@ O Bazar Alto Oeste visa atender diversas necessidades de compra e venda de produ
 ### Links Úteis:
     Documento de descrição do sistema: https://docs.google.com/document/d/19CRvglGRb-FMNBqWvA-SgoYJmoqURmOaZbbf5XNIiyw/edit?usp=sharing
     Documento de Requisitos: https://docs.google.com/document/d/1pqXeZ5EJJYkeEbo0tjqvpTVTYxXIA-e1TarN6SQFTdA/edit?usp=sharing
+    Documento de especificações formais: https://docs.google.com/document/d/1A7zaLdhFCSsf6v8hUTenXS-JGx1RjxLkSpHQmi-uwqg/edit
+    Documento de especificação de casos de uso: https://docs.google.com/document/d/1D7i9hWsiSQmfq05i9_qZitECSUpUMf7EBgig7eoQVfY/edit
